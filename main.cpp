@@ -8,7 +8,7 @@ int main() {
     string fileName, name, rollNo, subject, institution, insAdrs, course, date;
     string equipment;
     string bookSubject, bookNames;
-    string reason;          // For College Transfer Certificate
+    string reason;
     int options;
 
     cout<<"Enter Name for your File: ";
@@ -184,4 +184,5 @@ int main() {
 
     getchar();
     return 0;
+
 }
